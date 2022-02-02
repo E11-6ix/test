@@ -64,7 +64,8 @@
 
 <style>
   footer {
-      
+      background: black;
+      color: yellow;
     }
   .lineheight {
       line-height: 50px;
