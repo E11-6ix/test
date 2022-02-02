@@ -34,8 +34,8 @@
     <table border=1> <td> <p> <a href="http://dishisdjgios.com"; > It's for you! </a> </p> </td> </table>
     <p class="lineheight"> Call me [RIGHT NOW]!!! <br> Spamton speaks to the audience. <br> He asks audience to stop. <br> There is no audience. </p>
     <img src="https://c.tenor.com/ZNAXnuFBXv0AAAAi/deltarune-spamton.gif" width=500px>
-    <a name="adress"> </a>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7024.284531566527!2d-115.2951943852586!3d36.175103403495235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z0JvQsNGBLdCS0LXQs9Cw0YEsINCd0LXQstCw0LTQsCwg0KHQqNCQ!5e0!3m2!1sru!2sru!4v1643797208227!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <a name="adress"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7024.284531566527!2d-115.2951943852586!3d36.175103403495235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z0JvQsNGBLdCS0LXQs9Cw0YEsINCd0LXQstCw0LTQsCwg0KHQqNCQ!5e0!3m2!1sru!2sru!4v1643797208227!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></a>
+    
 </main>
 
 
@@ -63,6 +63,9 @@
 </footer>
 
 <style>
+  footer {
+      
+    }
   .lineheight {
       line-height: 50px;
     }
