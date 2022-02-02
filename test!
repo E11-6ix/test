@@ -1,3 +1,4 @@
+<html>
 <head>
   <title> Spamton's shop </title>
   <nav>
@@ -67,6 +68,11 @@
       background: black;
       color: yellow;
     }
+  main {
+		background: black;
+		color: purple;
+		font-size: 70px;
+	}
   .lineheight {
       line-height: 50px;
     }
@@ -91,3 +97,4 @@
         width: 100%;
     }
 </style>
+</html>
